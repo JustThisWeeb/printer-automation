@@ -9,6 +9,7 @@ External libraries to download:
 pyautogui 
 
 you can download it in windows by opening cmd and typing py -m pip install pyautogui or just pip install pyautogui
+
 Note that you also need to have pip installed 
 
 
