@@ -20,4 +20,4 @@ Massive credit to baali and all of the people in the comments here - https://gis
 In order to change username, password, host, directories and other details you should open the files in a code editor and change the first 8 variables. I have explained in comments in detial about what to cahnge them to and little details about them.
 
 
-I might also make a repository with the original printer automation script I made which is simpler than that one and does work but might not be as useful
+I might also make a repository (or just add it here) with the original printer automation script I made which is simpler than that one and does work but might not be as useful. 
